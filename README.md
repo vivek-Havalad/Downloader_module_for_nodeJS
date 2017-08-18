@@ -52,6 +52,3 @@ Downloader(fileUrl,fileSavePath,function(parm){
         console.log(parm);
 })
 ```
-
-
-                                                                                                                              7,1           Top
